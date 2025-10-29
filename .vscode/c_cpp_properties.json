@@ -1,0 +1,6 @@
+{
+  "includePath": [
+    "${workspaceFolder}/**",
+    "/opt/homebrew/include"
+  ]
+}
